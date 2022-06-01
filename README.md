@@ -4,7 +4,7 @@ System to measure the distance using ultrasonic sensor (HC-SR04)
 ## The project is designed and implemented based on the layered architecture model
 ![image from program](https://github.com/Tarek-Elmenshawy/Ultrasonic_Sensor_ATmega16/blob/main/screenshots/layers.png?raw=true)
 
-## proteus simulation
+## Proteus Simulation
 ![image from program](https://github.com/Tarek-Elmenshawy/Ultrasonic_Sensor_ATmega16/blob/main/screenshots/workingjpg.jpg?raw=true)
 
 ## Main Components
