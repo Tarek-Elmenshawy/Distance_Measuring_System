@@ -5,7 +5,7 @@ System to measure the distance using ultrasonic sensor (HC-SR04)
 ![image from program](https://github.com/Tarek-Elmenshawy/Ultrasonic_Sensor_ATmega16/blob/main/screenshots/layers.png?raw=true)
 
 ## proteus simulation
-![image from program](?raw=true)
+![image from program](https://github.com/Tarek-Elmenshawy/Ultrasonic_Sensor_ATmega16/blob/main/screenshots/workingjpg.jpg?raw=true)
 
 ## Main Components
 - ATmege16 
