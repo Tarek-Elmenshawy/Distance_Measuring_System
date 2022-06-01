@@ -8,7 +8,7 @@ System to measure the distance using ultrasonic sensor (HC-SR04) based on Input 
 ![image from program](https://github.com/Tarek-Elmenshawy/Ultrasonic_Sensor_ATmega16/blob/main/screenshots/workingjpg.jpg?raw=true)
 
 ## Main Components
-- ATmege16 
+- ATmega16 
 - HC-SR04
 - 4*16 LCD
 
@@ -17,7 +17,7 @@ System to measure the distance using ultrasonic sensor (HC-SR04) based on Input 
 - GPIO
 - LCD
 - ICU
-- Ultrasonic
+- Ultrasonic Sensor (HC-SR04)
 
 ## Tools
 - Eclipse
