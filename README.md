@@ -1,4 +1,4 @@
-# Ultrasonic_Sensor_ATmega16
+# Distance Measuring System
 System to measure the distance using ultrasonic sensor (HC-SR04) based on Input Capture Unit (ICU)
 
 ## The project is designed and implemented based on the layered architecture model
